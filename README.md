@@ -1,6 +1,6 @@
-# test_flutter_app
+# Word Pair Flutter App
 
-A new Flutter project.
+Flutter app do codelab [Seu primeiro app do Flutter](https://codelabs.developers.google.com/codelabs/flutter-codelab-first?)
 
 ## Getting Started
 
